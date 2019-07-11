@@ -3,6 +3,7 @@ ALPHABET SOUP (from https://www.coderbyte.com/editor/guest:Alphabet%20Soup:JavaS
 
 Have the function AlphabetSoup(str) take the str string parameter being passed and return the string with the letters in alphabetical order (ie. hello becomes ehllo). 
 Assume numbers and punctuation symbols will not be included in the string. 
+*(I decided to take into account if numbers and punctuation are in the string anyways)
 */
 
 let ALPHABET = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'];
