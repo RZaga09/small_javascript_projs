@@ -21,6 +21,7 @@ for (i in AlphabetSoup) {
     }
 }
 alpha.sort();
+//alpha.join() would have been better in hindsight
 AlphabetSoup = "";
 for (i in alpha) {
     AlphabetSoup = AlphabetSoup + alpha[i];
